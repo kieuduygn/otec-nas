@@ -11,7 +11,7 @@ Vui lòng đọc kỹ hướng dẫn này trước khi yêu cầu hỗ trợ.
 ## Thông tin Server
 
 - Địa chỉ IP: 10.0.0.201
-- Hostname: nas.otec.vn
+- Hostname: nas.otec.host
 
 ## Hướng dẫn sử dụng
 
